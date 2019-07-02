@@ -26,8 +26,8 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "ojiserver.database.windows.net";
-    $db = "dicodingdb";
+    $host = "ojimacd.database.windows.net";
+    $db = "ojibase";
     $user = "hamzah";
     $pwd = "Zahham2017!";
     try {
